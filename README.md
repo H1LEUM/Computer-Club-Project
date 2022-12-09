@@ -1,2 +1,2 @@
 # Computer Club Project
- Registration Student Program
+ Registration Student Program for teacher in charge in computer club.
